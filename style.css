@@ -1,0 +1,38 @@
+.body {
+	margin: 20px;
+}
+
+.card{
+	background-color: #DDEBF8;
+	display: flex;
+	justify-content: space-around; /*it will create a margin all around the individual child the picture and the info*/
+	padding: 20px;
+	width: 400px;
+	margin: 0px auto 0px auto;
+	border-bottom: 5px solid #d8CEFE;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.border-blue {
+	border: 1px dotted blue;
+}
+
+.picture {
+	margin: auto 0px auto 0px;
+}
+
+.profile {
+	width: 150px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.text-align {
+	text-align: center;
+}
+
+.info{
+	margin: auto 0px auto 0px;
+}
